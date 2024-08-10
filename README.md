@@ -13,15 +13,13 @@
 - 🌱 I’m currently learning **Machine Learning**
 - 🎓 I am a final year student of **Computer Engineering** at Bharati Vidyapeeth University College of Engineering, Pune.
 - 💼 I have completed internships as a **Python Developer and ML Intern** at BIT, Mesra, Ranchi, and as a Research Intern at Mecon India, Ltd.
-- 🌱 I’m on track for learning more about Web Development and Software Engineering.
-- You can shoot me an email at **apurwa.anand.ranchi@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/apurwaanandd" target="blank">
+  <a href="https://www.linkedin.com/in/apurwaananandd/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="apurwaanandd" height="30" width="40" />
   </a>
-  <a href="mailto:apurwa.anand.ranchi@gmail.com" target="blank">
+  <a href="mailto:apurwa.anand.ranchi@gmail.com" target="_blank">
     <img align="center" src="https://img.icons8.com/ios-filled/50/000000/mail.png" alt="email" height="30" width="40" />
   </a>
 </p>
@@ -72,18 +70,12 @@
   - **Traveling, Cooking, and Meditating**: Enjoying life beyond technology.
 </p>
 
-<h3 align="left">GitHub Stats:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=apurwaanandd&show_icons=true&locale=en&layout=compact" alt="apurwaanandd" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=apurwaanandd&show_icons=true&locale=en" alt="apurwaanandd" /></p>
 
-<h3 align="left">Contribution Stats:</h3>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=apurwaanandd&" alt="apurwaanandd" /></p>
+[![](https://raw.githubusercontent.com/apurwaanandd/templetes/master/profile-summary-card-output/radical/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-<h3 align="left">Achievements:</h3>
-<p>- **Total Contributions:** 40</p>
-<p>- **Pull Requests:** 10</p>
-<p>- **Total Stars Earned:** 20</p> <!-- Replace 20 with the actual number of stars earned -->
-<p>- **Total Commits:** 150</p> <!-- Replace 150 with the actual number of commits -->
-
-<!-- Optionally, you can add the WakaTime section and contribution grid snake animation here if needed -->
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+<!-- ![Snake animation](https://github.com/apurwaanandd/apurwaanandd/blob/output/github-contribution-grid-snake.svg) -->
