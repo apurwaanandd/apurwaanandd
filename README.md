@@ -13,6 +13,7 @@
 - 🌱 I’m currently learning **Machine Learning**
 - 🎓 I am a final year student of **Computer Engineering** at Bharati Vidyapeeth University College of Engineering, Pune.
 - 💼 I have completed internships as a **Python Developer and ML Intern** at BIT, Mesra, Ranchi, and as a Research Intern at Mecon India, Ltd.
+- You can shoot me an email at **apurwa.anand.ranchi@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
