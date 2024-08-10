@@ -3,14 +3,14 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&text=Hello%20Everybody&section=header&fontSize=50&animation=fadeIn"/>
 </p>
 
-<h1 align="center">Hello 👋, I'm Apurwa Anand</h1>
+<h1 align="center">Hi 👋, I'm Apurwa Anand</h1>
 <h3 align="center">A passionate Software Engineer</h3>
 
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*qdAW1TjCN57h1lbuuzvchg.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=apurwaanandd&label=Profile%20views&color=0e75b6&style=flat" alt="apurwaanandd" /> </p>
 
-- 🌱 I’m currently into **Machine Learning**
+- 🌱 I’m currently learning **Machine Learning**
 - 🎓 I am a final year student of **Computer Engineering** at Bharati Vidyapeeth University College of Engineering, Pune.
 - 💼 I have completed internships as a **Python Developer and ML Intern** at BIT, Mesra, Ranchi, and as a Research Intern at Mecon India, Ltd.
 - 🌱 I’m on track for learning more about Web Development and Software Engineering.
@@ -31,9 +31,6 @@
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
   </a>
-  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
-</a>
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
   </a>
@@ -72,12 +69,21 @@
   - **AI and ML**: Implementing algorithms to solve complex problems.
   - **Quantum Computing**: Researching its impact on encryption technologies.
   - **IoT Solutions**: Innovating technologies to address real-world issues.
-  - **Frameworks**: DotNet.
+  - **Traveling, Cooking, and Meditating**: Enjoying life beyond technology.
 </p>
 
+<h3 align="left">GitHub Stats:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=apurwaanandd&show_icons=true&locale=en&layout=compact" alt="apurwaanandd" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=apurwaanandd&show_icons=true&locale=en" alt="apurwaanandd" /></p>
 
-<!-- Optionally, you can add the WakaTime section and contribution grid snake animation here if needed -->
+<h3 align="left">Contribution Stats:</h3>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=apurwaanandd&" alt="apurwaanandd" /></p>
 
+<h3 align="left">Achievements:</h3>
+<p>- **Total Contributions:** 40</p>
+<p>- **Pull Requests:** 10</p>
+<p>- **Total Stars Earned:** 20</p> <!-- Replace 20 with the actual number of stars earned -->
+<p>- **Total Commits:** 150</p> <!-- Replace 150 with the actual number of commits -->
+
+<!-- Optionally, you can add the WakaTime section and contribution grid snake animation here if needed -->
