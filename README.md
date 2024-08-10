@@ -63,11 +63,13 @@
 
 <h3 align="left">Interests:</h3>
 <p align="left">
-  - **Data Analytics**: Exploring data to uncover insights and trends.
-  - **AI and ML**: Implementing algorithms to solve complex problems.
-  - **Quantum Computing**: Researching its impact on encryption technologies.
-  - **IoT Solutions**: Innovating technologies to address real-world issues.
-  - **Traveling, Cooking, and Meditating**: Enjoying life beyond technology.
+  - **Programming Languages**: Passionate about Python, C#, and JavaScript.
+- **Technologies**: Interested in cloud computing, IoT solutions, and machine learning.
+- **Current Focus**: Exploring Azure and TensorFlow.
+- **Project Types**: Enjoy working on open-source projects and developing tools that solve real-world problems.
+- **Problem Areas**: Particularly interested in healthcare and environmental sustainability.
+- **Learning Goals**: Actively learning advanced data analytics and contributing to emerging tech communities.
+- **Personal Interests**: Enthusiastic about cooking, traveling, and staying active through sports.
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=apurwaanandd&show_icons=true&locale=en&layout=compact" alt="apurwaanandd" /></p>
