@@ -1,3 +1,8 @@
+<!-- Header Section -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&text=Hello%20Everybody&section=header&fontSize=50&animation=fadeIn"/>
+</p>
+
 <h1 align="center">Hi 👋, I'm Apurwa Anand</h1>
 <h3 align="center">A passionate Software Engineer</h3>
 
@@ -8,9 +13,9 @@
 - 🌱 I’m currently learning **Machine Learning**
 - 🎓 I am a final year student of **Computer Engineering** at Bharati Vidyapeeth University College of Engineering, Pune.
 - 💼 I have completed internships as a **Python Developer and ML Intern** at BIT, Mesra, Ranchi, and as a Research Intern at Mecon India, Ltd.
+- 🌱 I’m on track for learning more about Web Development and Software Engineering.
 
-
-<h3 align="left">Connect with me:</h3>
+### 🤝 Connect with me here:
 <p align="left">
   <a href="https://linkedin.com/in/apurwaanandd" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="apurwaanandd" height="30" width="40" />
@@ -18,9 +23,21 @@
   <a href="mailto:apurwa.anand.ranchi@gmail.com" target="blank">
     <img align="center" src="https://img.icons8.com/ios-filled/50/000000/mail.png" alt="email" height="30" width="40" />
   </a>
+  <a href="https://www.instagram.com/_.utkarsh10/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/utkarshkumar3128/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/utkarshcr73128">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=100012449179011">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+### 💻 Languages and Tools:
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
@@ -57,15 +74,25 @@
   </a>
 </p>
 
-<h3 align="left">Interests:</h3>
+### ⚒️ Tools:
 <p align="left">
-  - **Data Analytics**: Exploring data to uncover insights and trends.
-  - **AI and ML**: Implementing algorithms to solve complex problems.
-  - **Quantum Computing**: Researching its impact on encryption technologies.
-  - **IoT Solutions**: Innovating technologies to address real-world issues.
-  - **Traveling, Cooking, and Meditating**: Enjoying life beyond technology.
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white" alt="Neovim" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=apurwaanandd&show_icons=true&locale=en&layout=compact" alt="apurwaanandd" /></p>
+### 📊 GitHub Stats:
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=apurwaanandd&show_icons=true&locale=en&layout=compact&theme=radical" alt="apurwaanandd" />
+</p>
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=apurwaanandd&show_icons=true&theme=tokyonight" alt="apurwaanandd" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=apurwaanandd&&theme=radical" alt="apurwaanandd" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=apurwaanandd&show_icons=true&locale=en" alt="apurwaanandd" /></p>
+<!-- Footer Section -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer"/>
+</p>
