@@ -65,12 +65,13 @@
 <h3 align="left">Interests:</h3>
 <p align="left">
   - **Programming Languages**: Passionate about Python, C#, and JavaScript.
-- **Technologies**: Interested in cloud computing, IoT solutions, and machine learning.
-- **Current Focus**: Exploring Azure and TensorFlow.
-- **Project Types**: Enjoy working on open-source projects and developing tools that solve real-world problems.
-- **Problem Areas**: Particularly interested in healthcare and environmental sustainability.
-- **Learning Goals**: Actively learning advanced data analytics and contributing to emerging tech communities.
-- **Personal Interests**: Enthusiastic about cooking, traveling, and staying active through sports.
+- **Software skills: MS Excel | MS PowerPoint
+Soft Skills: Team Collaboration | Team management | Problem solving | Public Speaking | Analytical Thinking
+Core skills: Programming – Python, C, C++, DSA, Machine Learning & AI – Supervised & Unsupervised Learning,
+Feature Selection, Ensemble Learning, Computer Networks, Blockchain & Security – Hyperledger Fabric, Smart
+Contracts, Go Chaincode, Quantum-Resistant Cryptography, Backend Development –.NET (C#), REST APIs, Cloud &
+DevOps – Docker, Databases – SQL, Software Development – Agile, SDLC, OOPs, Version control – Git.
+
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=apurwaanandd&show_icons=true&locale=en&layout=compact" alt="apurwaanandd" /></p>
