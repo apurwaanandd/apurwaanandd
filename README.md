@@ -1,30 +1,38 @@
-<!-- Header Section -->
+<!-- Hero Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&text=Hello%20Everybody&section=header&fontSize=50&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=170&text=Hi%20I'm%20Apurwa%20Anand&section=header&fontSize=45&animation=fadeIn"/>
 </p>
 
-<h1 align="center">Hi 👋, I'm Apurwa Anand</h1>
-<h3 align="center">Software Engineer | Machine Learning Enthusiast</h3>
+<h3 align="center">
+Software Engineer | Backend & Machine Learning | Research-Oriented Problem Solver
+</h3>
 
-<img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*qdAW1TjCN57h1lbuuzvchg.gif">
+<p align="center">
+Building scalable systems • Solving real-world problems • Strong CS fundamentals
+</p>
+
+---
+
+<img align="right" alt="coding" width="420" src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*qdAW1TjCN57h1lbuuzvchg.gif">
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=apurwaanandd&label=Profile%20views&color=0e75b6&style=flat" alt="apurwaanandd" />
+  <img src="https://komarev.com/ghpvc/?username=apurwaanandd&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
-### 👩‍💻 About Me
-- 🌱 Currently learning **Machine Learning & AI**
-- 🎓 **Computer Engineering Graduate** from Bharati Vidyapeeth University College of Engineering, Pune  
-- 💼 **Project Intern** at IIT (ISM) Dhanbad  
-  Former **Research Intern** at MECON Limited  
-  **Summer Research Intern** at BIT Mesra  
-- 📫 Reach me at **apurwa.anand.ranchi@gmail.com**
+## 👩‍💻 About Me
+- 🎓 **Computer Engineering Graduate** — Bharati Vidyapeeth University College of Engineering, Pune  
+- 💼 **Project Intern** — IIT (Indian School of Mines), Dhanbad  
+- 🔬 **Former Research Intern** — MECON Limited & BIT Mesra  
+- 🌱 Currently deepening expertise in **Machine Learning, Backend Systems & Scalable APIs**
+- 📫 Email: **apurwa.anand.ranchi@gmail.com**
+
+> I enjoy working at the intersection of **software engineering, data, and systems**, with a strong focus on correctness, scalability, and clean architecture.
 
 ---
 
-### 🤝 Connect with Me
+## 🔗 Connect With Me
 <p align="left">
   <a href="https://www.linkedin.com/in/apurwaananandd/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
@@ -36,56 +44,57 @@
 
 ---
 
-### 🛠️ Languages & Tools
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
-</p>
+## 🛠️ Technical Skills (FAANG-Aligned)
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40"/>
-  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40"/>
-</p>
+### 💻 Programming & CS Fundamentals
+- **Languages:** Python, C, C++, C#, JavaScript  
+- **Core CS:** Data Structures & Algorithms, OOPs, Operating Systems, Computer Networks, DBMS  
 
----
+### 🤖 Machine Learning & AI
+- Supervised & Unsupervised Learning  
+- Feature Engineering & Selection  
+- Ensemble Methods  
+- Model Evaluation & Optimization  
+- Libraries: **Scikit-learn, Pandas, NumPy, TensorFlow, PyTorch**
 
-### 🚀 Core Skills
-- **Programming:** Python, C, C++, DSA  
-- **Machine Learning & AI:** Supervised & Unsupervised Learning, Feature Selection, Ensemble Learning  
-- **Backend Development:** .NET (C#), REST APIs  
-- **Databases:** SQL  
-- **Blockchain & Security:** Hyperledger Fabric, Smart Contracts, Go Chaincode, Quantum-Resistant Cryptography  
-- **Cloud & DevOps:** Docker  
-- **Software Engineering:** OOPs, SDLC, Agile, Git  
+### 🌐 Backend & Systems
+- **Backend:** .NET (C#), RESTful APIs  
+- **Databases:** MySQL, SQL  
+- **Architecture:** MVC, Layered Architecture, API Design  
+
+### 🔐 Blockchain & Security
+- Hyperledger Fabric  
+- Smart Contracts & Go Chaincode  
+- Quantum-Resistant Cryptography (Research Exposure)
+
+### ☁️ Cloud & DevOps
+- Docker  
+- Git & Version Control  
+- Agile & SDLC
 
 ---
 
-### 💡 Soft Skills
-- Team Collaboration & Management  
-- Problem Solving  
-- Analytical Thinking  
-- Public Speaking  
+## 🧠 Soft Skills (Engineering Signals)
+- Problem Solving & Analytical Thinking  
+- Team Collaboration & Leadership  
+- Technical Communication & Public Speaking  
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Analytics (Signals Matter)
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=apurwaanandd&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=apurwaanandd&layout=compact&theme=default" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=apurwaanandd&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=apurwaanandd&show_icons=true&theme=default" />
 </p>
 
 [![](https://raw.githubusercontent.com/apurwaanandd/templetes/master/profile-summary-card-output/radical/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
+
+<!-- Optional: Snake animation when active -->
+<!-- ![Snake animation](https://github.com/apurwaanandd/apurwaanandd/blob/output/github-contribution-grid-snake.svg) -->
+
