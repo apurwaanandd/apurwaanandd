@@ -11,7 +11,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=apurwaanandd&label=Profile%20views&color=0e75b6&style=flat" alt="apurwaanandd" /> </p>
 
 - 🌱 I’m currently learning **Machine Learning**
-- 🎓 I am a final year student of **Computer Engineering** at Bharati Vidyapeeth University College of Engineering, Pune.
+- 🎓 I am a **Computer Engineer** graduated from Bharati Vidyapeeth University College of Engineering,Pune.
 - 💼Project Intern at Indian Institute of Technology (Indian School of Mines), Dhanbad, | Former Research Intern at MECON Limited, India | Summer Research Intern at Birla Institute of Technology, Mesra | Alumni at DPS Ranchi.
 - You can shoot me an email at **apurwa.anand.ranchi@gmail.com**
 
