@@ -44,7 +44,7 @@ Building scalable systems • Solving real-world problems • Strong CS fundamen
 
 ---
 
-## 🛠️ Technical Skills (FAANG-Aligned)
+## 🛠️ Technical Skills 
 
 ### 💻 Programming & CS Fundamentals
 - **Languages:** Python, C, C++, C#, JavaScript  
