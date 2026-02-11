@@ -37,11 +37,12 @@
 
 ---
 
+
 ### 📊 GitHub Metrics
-<p align="center">
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=apurwaanandd&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" />
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=apurwaanandd&show_icons=true&locale=en&theme=vision-friendly-dark" />
-</p>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apurwaanandd&layout=compact&theme=vision-friendly-dark)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=apurwaanandd&show_icons=true&theme=vision-friendly-dark)
 
 ---
 
