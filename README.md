@@ -15,13 +15,6 @@
 ---
 
 ### 👩‍💻 About Me
-- 🌱 Currently deep-diving into **Advanced Machine Learning & AI**
-- 🎓 **Computer Engineering Graduate** | Bharati Vidyapeeth University College of Engineering, Pune
-- 💼 **Project Intern** @ IIT (ISM) Dhanbad  
-- 🧪 **Research Intern** @ MECON Limited & BIT Mesra  
-- ✍️ Passionate about **Quantum-Resistant Cryptography** and **Distributed Systems**
-
-### 👩‍💻 About Me
 - 🌱 Currently deep-diving into **Large Language Models (LLMs) & AI Architecture**
 - 🎓 **Computer Engineering Graduate** | Bharati Vidyapeeth University, Pune
 - 💼 **Project Intern @ IIT (ISM) Dhanbad** | Developing Blockchain EHR Systems (ISEA Phase 3)
