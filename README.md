@@ -2,51 +2,33 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&text=Apurwa%20Anand&section=header&fontSize=50&animation=fadeIn"/>
 </p>
 
-<h1 align="center">Software Engineer | AI & Blockchain Researcher</h1>
+<h1 align="center">Software Engineer | AI & Blockchain Researcher 👋</h1>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/apurwaananandd/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:apurwa.anand.ranchi@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+<p align="right">
+  <img alt="coding" width="380" src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*qdAW1TjCN57h1lbuuzvchg.gif">
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=apurwaanandd&label=Profile%20views&color=0e75b6&style=flat-square" alt="apurwaanandd" />
-</p>
+### 🚀 Quick Summary
+- 🎓 **Computer Engineer** | Graduate of BVU College of Engineering, Pune.
+- 🧪 **Research Focused:** Specialized in Machine Learning & Quantum-Resistant Cryptography.
+- 💼 **Professional Impact:**
+  - **Project Intern** @ IIT (ISM) Dhanbad
+  - **Research Intern** @ MECON Limited, India
+  - **Summer Research Intern** @ BIT Mesra
+- ✉️ Reach me at: **apurwa.anand.ranchi@gmail.com**
 
----
-
-### 💫 About Me
-- 🎓 **Computer Engineer** graduated from BVU College of Engineering, Pune.
-- 🧪 **Research Focused:** Specialized in Quantum-Resistant Cryptography and Hyperledger Fabric.
-- 🚀 **Currently Deep-Diving:** Advanced Machine Learning & Distributed Systems.
-- 💼 **Professional Experience:**
-  - Intern @ **IIT (ISM) Dhanbad**
-  - Research Intern @ **MECON Limited**
-  - Summer Research @ **BIT Mesra**
-
----
-
-### 🛠 Tech Stack
-
-| Category | Tools & Languages |
-| :--- | :--- |
-| **Languages** | `Python` `C++` `C#` `Go` `SQL` `JavaScript` |
-| **AI / ML** | `PyTorch` `TensorFlow` `Scikit-Learn` `Pandas` `Seaborn` |
-| **Blockchain** | `Hyperledger Fabric` `Smart Contracts` `Go Chaincode` |
-| **Backend & Cloud** | `.NET` `REST APIs` `Docker` `Git` |
-
----
-
-
-### 📊 GitHub Metrics
-
+### 🤝 Connect with me
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=apurwaanandd&show_icons=true&theme=vision-friendly-dark&cache_buster=123" alt="Apurwa's Stats" />
+  <a href="https://www.linkedin.com/in/apurwaananandd/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="35" />
+  </a>
+  <a href="mailto:apurwa.anand.ranchi@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=apurwaanandd&label=Profile%20views&color=0e75b6&style=flat-square" height="35" />
 </p>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=apurwaanandd&layout=compact&theme=vision-friendly-dark&cache_buster=123" alt="Top Languages" />
-</p>
+---
 
 ### 💻 Technical Proficiency
 <p align="left">
