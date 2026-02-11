@@ -2,9 +2,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&text=Apurwa%20Anand&section=header&fontSize=50&animation=fadeIn"/>
 </p>
 
-<h1 align="center">Hi 👋, I'm Apurwa Anand</h1>
-<h3 align="center">Software Engineer | AI & Blockchain Researcher</h3>
-<p align="center"><b>I am from India 🇮🇳</b></p>
+<h1 align="center">Hello Everyone ! 👋</h1>
+<h3 align="center">I am a Software Engineer from India 🇮🇳| AI & Blockchain Researcher</h3>
+
 
 <img align="right" alt="coding" width="380" src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*qdAW1TjCN57h1lbuuzvchg.gif">
 
@@ -18,9 +18,17 @@
 - 🌱 Currently deep-diving into **Advanced Machine Learning & AI**
 - 🎓 **Computer Engineering Graduate** | Bharati Vidyapeeth University College of Engineering, Pune
 - 💼 **Project Intern** @ IIT (ISM) Dhanbad  
-- 🧪 **Research Alumni** @ MECON Limited & BIT Mesra  
+- 🧪 **Research Intern** @ MECON Limited & BIT Mesra  
 - ✍️ Passionate about **Quantum-Resistant Cryptography** and **Distributed Systems**
 
+### 👩‍💻 About Me
+- 🌱 Currently deep-diving into **Large Language Models (LLMs) & AI Architecture**
+- 🎓 **Computer Engineering Graduate** | Bharati Vidyapeeth University, Pune
+- 💼 **Project Intern @ IIT (ISM) Dhanbad** | Developing Blockchain EHR Systems (ISEA Phase 3)
+- 🚀 **Software Developer Intern @ Tata Steel Foundation** | Built .NET Document Management Systems
+- 🧪 **Research Intern** @ **MECON India Limited** (Quantum Cryptography) & **BIT Mesra** (Machine Learning)
+
+---
 ---
 
 ### 🛠 Tech Stack
@@ -45,6 +53,9 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/apurwaananandd/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="35" />
+  </a>
+  <a href="mailto:apurwa.anand.ranchi@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" />
   </a>
   <a href="https://github.com/apurwaanandd" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="35" />
