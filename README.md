@@ -41,11 +41,19 @@
 ### 📊 GitHub Metrics
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=apurwaanandd&show_icons=true&theme=vision-friendly-dark" alt="Apurwa's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=apurwaanandd&show_icons=true&theme=vision-friendly-dark&cache_buster=123" alt="Apurwa's Stats" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=apurwaanandd&layout=compact&theme=vision-friendly-dark" alt="Apurwa's Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=apurwaanandd&layout=compact&theme=vision-friendly-dark&cache_buster=123" alt="Top Languages" />
+</p>
+
+### 💻 Technical Proficiency
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 ---
 
