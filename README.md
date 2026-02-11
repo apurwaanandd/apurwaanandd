@@ -3,8 +3,7 @@
 </p>
 
 <h1 align="center">Hello Everyone ! 👋</h1>
-<h3 align="center">I am a Software Engineer from India 🇮🇳| AI & Blockchain Researcher</h3>
-
+<h3 align="center">I am a Software Engineer from India 🇮🇳 | AI & Blockchain Researcher</h3>
 
 <img align="right" alt="coding" width="380" src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*qdAW1TjCN57h1lbuuzvchg.gif">
 
@@ -21,7 +20,6 @@
 - 🚀 **Software Developer Intern @ Tata Steel Foundation** | Built .NET Document Management Systems
 - 🧪 **Research Intern** @ **MECON India Limited** (Quantum Cryptography) & **BIT Mesra** (Machine Learning)
 
----
 ---
 
 ### 🛠 Tech Stack
@@ -47,6 +45,12 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/apurwaananandd/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="35" />
+  </a>
+  <a href="https://x.com/ApurwaAnand10" target="_blank">
+    <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" height="35" />
+  </a>
+  <a href="https://stackoverflow.com/users/26690874/apurwa-anand" target="_blank">
+    <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" height="35" />
   </a>
   <a href="mailto:apurwa.anand.ranchi@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" />
