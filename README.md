@@ -40,10 +40,13 @@
 
 ### 📊 GitHub Metrics
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apurwaanandd&layout=compact&theme=vision-friendly-dark)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=apurwaanandd&show_icons=true&theme=vision-friendly-dark" alt="Apurwa's GitHub Stats" />
+</p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=apurwaanandd&show_icons=true&theme=vision-friendly-dark)
-
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=apurwaanandd&layout=compact&theme=vision-friendly-dark" alt="Apurwa's Top Languages" />
+</p>
 ---
 
 ### 🎯 Core Competencies
