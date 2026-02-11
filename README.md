@@ -28,17 +28,18 @@
 
 | Category | Tools & Languages |
 | :--- | :--- |
-| **Languages** | `Python` `C++` `C#` `Go` `SQL` `JavaScript` |
-| **AI / ML** | `PyTorch` `TensorFlow` `Scikit-Learn` `Pandas` `Seaborn` |
+| **Languages** | `Python` `C/C++` `GoLang` `C#` `SQL` `JavaScript` |
+| **AI / ML** | `PyTorch` `TensorFlow` `Scikit-Learn` `Ensemble Learning` `Feature Selection` |
 | **Blockchain** | `Hyperledger Fabric` `Smart Contracts` `Go Chaincode` |
-| **Backend & Cloud** | `.NET` `REST APIs` `Docker` `Git` |
+| **Web & Backend** | `React.js` `Node.js` `.NET (C#)` `ASP.NET Web API` `Entity Framework` |
+| **Cloud & DevOps**| `Docker` `AWS` `Azure` `Git/GitHub` `REST APIs` |
+| **Databases** | `SQL Server` `MySQL` `MongoDB` |
 
 ---
 
 ### 🎯 Core Competencies
 * **Engineering Rigor:** OOPs, SDLC, Agile (Scrum), Version Control (Git)
 * **Problem Solving:** Data Structures & Algorithms
-* **Leadership:** Team Management, Public Speaking, Analytical Thinking
 
 ---
 
