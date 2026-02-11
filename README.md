@@ -2,48 +2,53 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&text=Apurwa%20Anand&section=header&fontSize=50&animation=fadeIn"/>
 </p>
 
-<h1 align="center">Software Engineer | AI & Blockchain Researcher 👋</h1>
+<h1 align="center">Hi 👋, I'm Apurwa Anand</h1>
+<h3 align="center">Software Engineer | AI & Blockchain Researcher</h3>
+<p align="center"><b>I am from India 🇮🇳</b></p>
 
-### 👨‍🎓 About Me
-- 🎓 **Computer Engineering Graduate** | BVU College of Engineering, Pune
-- 💼 **Project Intern** @ IIT (ISM) Dhanbad (Blockchain & Quantum Cryptography)
-- 🧪 **Research Alumni** @ MECON Limited & BIT Mesra
-- 🌱 Deep-diving into **Large Language Models & Advanced AI Architecture**
-- 📫 Reach me at: **apurwa.anand.ranchi@gmail.com**
+<img align="right" alt="coding" width="380" src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*qdAW1TjCN57h1lbuuzvchg.gif">
 
----
-
-### 🛠 Languages & Tools
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://komarev.com/ghpvc/?username=apurwaanandd&label=Profile%20views&color=0e75b6&style=flat-square" alt="apurwaanandd" />
 </p>
 
 ---
 
-### 🔬 Featured Impact
-> **IIT (ISM) Dhanbad | Project Intern**
-> *Developed quantum-resistant cryptographic protocols and blockchain smart contracts using Hyperledger Fabric and Go.*
+### 👩‍💻 About Me
+- 🌱 Currently deep-diving into **Advanced Machine Learning & AI**
+- 🎓 **Computer Engineering Graduate** | Bharati Vidyapeeth University College of Engineering, Pune
+- 💼 **Project Intern** @ IIT (ISM) Dhanbad  
+- 🧪 **Research Alumni** @ MECON Limited & BIT Mesra  
+- ✍️ Passionate about **Quantum-Resistant Cryptography** and **Distributed Systems**
 
-> **MECON Limited | Research Intern**
-> *Implemented predictive ML models for industrial process optimization using Scikit-Learn and TensorFlow.*
+---
+
+### 🛠 Tech Stack
+
+| Category | Tools & Languages |
+| :--- | :--- |
+| **Languages** | `Python` `C++` `C#` `Go` `SQL` `JavaScript` |
+| **AI / ML** | `PyTorch` `TensorFlow` `Scikit-Learn` `Pandas` `Seaborn` |
+| **Blockchain** | `Hyperledger Fabric` `Smart Contracts` `Go Chaincode` |
+| **Backend & Cloud** | `.NET` `REST APIs` `Docker` `Git` |
 
 ---
 
 ### 🎯 Core Competencies
-* **Engineering Rigor:** OOPs, SDLC, Agile, Git Flow.
-* **AI Research:** Feature Selection, Ensemble Learning, Supervised/Unsupervised Learning.
-* **Blockchain:** Smart Contract Security & Distributed Ledger Technology.
+* **Engineering Rigor:** OOPs, SDLC, Agile (Scrum), Version Control (Git)
+* **Problem Solving:** Data Structures & Algorithms
+* **Leadership:** Team Management, Public Speaking, Analytical Thinking
 
 ---
 
-<p align="center">
+### 🤝 Connect with Me
+<p align="left">
   <a href="https://www.linkedin.com/in/apurwaananandd/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="35" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=apurwaanandd&label=Profile%20views&color=0e75b6&style=for-the-badge" />
+  <a href="https://github.com/apurwaanandd" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="35" />
+  </a>
 </p>
+
+---
